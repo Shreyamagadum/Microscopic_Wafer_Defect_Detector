@@ -136,6 +136,9 @@ Deploy using Streamlit (UI)
 👨‍💻 Author
 Shreyash Magadum
 
+---
+
 ⭐ Acknowledgment
 
 This project was developed as part of a deep learning assignment focused on wafer defect detection using transfer learning and CNNs.
+---
