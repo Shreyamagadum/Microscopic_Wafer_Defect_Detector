@@ -126,6 +126,7 @@ python inference.py
 ---
 
 📌 Future Improvements
+<br>
 Add validation dataset and accuracy metrics
 Implement confusion matrix
 Fine-tune deeper layers of ResNet
@@ -134,11 +135,12 @@ Deploy using Streamlit (UI)
 ---
 
 👨‍💻 Author
-Shreyash Magadum
+<br>
+Shreya Magadum
 
 ---
 
 ⭐ Acknowledgment
+<br>This project was developed as part of a deep learning assignment focused on wafer defect detection using transfer learning and CNNs.
 
-This project was developed as part of a deep learning assignment focused on wafer defect detection using transfer learning and CNNs.
 ---
