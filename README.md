@@ -123,15 +123,18 @@ jupyter lab
 4. Run inference
 python inference.py
 
+---
+
 📌 Future Improvements
 Add validation dataset and accuracy metrics
 Implement confusion matrix
 Fine-tune deeper layers of ResNet
 Deploy using Streamlit (UI)
 
+---
+
 👨‍💻 Author
 Shreyash Magadum
-Aspiring Data Scientist
 
 ⭐ Acknowledgment
 
